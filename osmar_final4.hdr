@@ -1,0 +1,24 @@
+ENVI ABILIO
+times = 1
+spectral bands = 1
+samples = 68
+lines   = 15000
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+byte order = 0
+classes = 10
+modelos = {
+1,2,3,4,5,6,7,8,9,10
+}
+class names = {
+REGION 1,REGION 2,REGION 3,REGION 4,REGION 5,REGION 6,REGION 7,REGION 8,REGION 9,REGION 10
+}
+class lookup = {
+255, 0, 0, 0, 255, 0, 0, 0, 255, 0, 255, 255, 255, 0, 255, 255, 255, 0, 255, 140, 0, 32, 178, 170, 255, 20, 147, 34, 139, 34
+}
+roisThreshold = {
+2,1,1,61
+}
